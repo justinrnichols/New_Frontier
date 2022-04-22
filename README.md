@@ -13,4 +13,4 @@ New Frontier was originally coded in C++ and was then translated to Java for gre
 ## How to Play
 Download the Java or C++ code and run it in a terminal.
 Alternatively, the code can be put in an IDE of choice to run.
-Both version contain a main function that will be executed.
+Both version contain a main function that will be executed to start the game.
