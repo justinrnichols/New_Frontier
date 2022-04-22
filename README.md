@@ -9,3 +9,6 @@ The game is heavily based on the widely distinguished Oregon Trail game released
 produced.
 
 New Frontier was originally coded in C++ and was then translated to Java for greater flexibility.
+
+## How to Play
+Download the Java or C++ code and run it in a terminal.
